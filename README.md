@@ -9,35 +9,26 @@ I am a growing Data Analyst with a background in Food Technology and hands on ex
 - SQL  
 - Power BI  
 - Python  
-- Data Cleaning and transformation
-- Data Visualization  
-- Dashboard Development
-- Reporting & Business Insights
+- Data Cleaning and Transformation
+- Data Visualization
+- Reporting and Insights
   
 ## Projects
 ### Customer Segmentation Analysis (https://github.com/BeeAnalyst/Customer-Segmentation-Dashboard)
 - Analyzed customer demographics, behavior, and segmentation.
-- Identified patterns in age, income, region, and customer type.
 - Built dashboards to support business understanding of customers.
 
-### Sales Data Analysis (SQL) (https://github.com/BeeAnalyst/Sales-Report_Sql)
+### Sales Report (SQL) (https://github.com/BeeAnalyst/Sales-Report_Sql)
 - Performed sales and profit analysis using SQL queries.
 - Identified top-performing regions and product categories.
   
-### Power BI Dashboard
-- Created interactive dashboards to track key business metrics.
-- Visualized sales trends and performance insights.
-
-### Excel Data Analysis (
+### Brain Pharmacy Analysis (https://github.com/BeeAnalyst/Pharmacy_Analysis)
 - Cleaned and organized raw datasets.
 - Used pivot tables and charts to summarize data.
 - Built simple dashboards for reporting insights.
 
-Tiamiyu Excel Analysis.xlsx
-https://github.com/BeeAnalyst
+## Sales Dataset (https://github.com/BeeAnalyst/Sales-Dataset_phython)
 
-https://github.com/BeeAnalyst/Pharmacy_Analysis
-https://github.com/BeeAnalyst/Sales-Dataset_phython
 
 ## Career Goal
 
@@ -46,7 +37,7 @@ To grow as a Data Analyst by using data to solve real-world problems and support
 ## Contact
 
 - LinkedIn: www.linkedin.com/in/tiamiyu-qahdratulahi-olabisi-012621287  
-- GitHub: 
+- GitHub: https://github.com/BeeAnalyst
 - Email: Asanyy16@gmail.com 
 
 ## Education
