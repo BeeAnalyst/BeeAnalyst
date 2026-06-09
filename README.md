@@ -1,6 +1,7 @@
-# Hi, I'm Qahdratulahi Tiamiyu 
+# Hi, I'm Tiamiyu Qahdratulahi
 
-Welcome to my Data Analyst Portfolio 😊
+Welcome to my Data Analyst Portfolio 😊.
+
 I am a growing Data Analyst with a background in Food Technology and hands on experience in Excel, SQL, Power BI, and Python. I work with data to clean, analyze, and visualize information in order to uncover insights that support business decisions and improve performance
 
 ## Skills and Tools
@@ -12,14 +13,14 @@ I am a growing Data Analyst with a background in Food Technology and hands on ex
 - Data Visualization  
 - Dashboard Development
 - Reporting & Business Insights
-- 
+  
 ## Projects
-### Customer Segmentation Analysis
+### Customer Segmentation Analysis (https://github.com/BeeAnalyst/Customer-Segmentation-Dashboard)
 - Analyzed customer demographics, behavior, and segmentation.
 - Identified patterns in age, income, region, and customer type.
 - Built dashboards to support business understanding of customers.
 
-### Sales Data Analysis (SQL)
+### Sales Data Analysis (SQL) (https://github.com/BeeAnalyst/Sales-Report_Sql)
 - Performed sales and profit analysis using SQL queries.
 - Identified top-performing regions and product categories.
   
@@ -27,10 +28,16 @@ I am a growing Data Analyst with a background in Food Technology and hands on ex
 - Created interactive dashboards to track key business metrics.
 - Visualized sales trends and performance insights.
 
-### Excel Data Analysis
+### Excel Data Analysis (
 - Cleaned and organized raw datasets.
 - Used pivot tables and charts to summarize data.
 - Built simple dashboards for reporting insights.
+
+Tiamiyu Excel Analysis.xlsx
+https://github.com/BeeAnalyst
+
+https://github.com/BeeAnalyst/Pharmacy_Analysis
+https://github.com/BeeAnalyst/Sales-Dataset_phython
 
 ## Career Goal
 
