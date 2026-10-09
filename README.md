@@ -40,7 +40,7 @@ To grow as a Data Analyst by using data to solve real-world problems and support
 
 - LinkedIn: www.linkedin.com/in/tiamiyu-qahdratulahi-olabisi-012621287  
 - GitHub: https://github.com/BeeAnalyst
-- Email: Asanyy16@gmail.com 
+- Email: qahdratulahitiamiyu@gmail.com 
 
 ## Education
 **B.Tech Food Technology**
