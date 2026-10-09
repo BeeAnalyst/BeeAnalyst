@@ -29,6 +29,8 @@ I am a growing Data Analyst with a background in Food Technology and hands on ex
 
 ## Sales Dataset (https://github.com/BeeAnalyst/Sales-Dataset_phython)
 
+## Zoomride SQL Data Analysis (https://github.com/BeeAnalyst/Zoomride-SQL-data-analysis)
+
 
 ## Career Goal
 
