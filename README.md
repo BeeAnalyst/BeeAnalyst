@@ -28,9 +28,8 @@ I am a growing Data Analyst with a background in Food Technology and hands on ex
 - Built simple dashboards for reporting insights.
 
 ## Sales Dataset (https://github.com/BeeAnalyst/Sales-Dataset_phython)
-
 ## Zoomride SQL Data Analysis (https://github.com/BeeAnalyst/Zoomride-SQL-data-analysis)
-
+## D.A.C Store (https://github.com/BeeAnalyst/D.A.C-Store)
 
 ## Career Goal
 
